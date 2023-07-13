@@ -16,7 +16,7 @@ or
 
 for Linux.
 
-and run the up with:
+and run the app with:
 
 ` flask run --debug `
 
