@@ -16,4 +16,8 @@ or
 
 for Linux.
 
+and run the up with:
+
+` flask run --debug `
+
 Good luck.
